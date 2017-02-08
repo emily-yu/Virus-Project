@@ -149,7 +149,11 @@ navbar-default .navbar-header .navbar-brand{
 
 /* Header*/
 header{
+<<<<<<< HEAD
+	background-image: linear-gradient(rgba(27, 122, 20, 0.8), rgba(27, 122, 20, 0.8)),url('../img/dna.jpg') !important;
+=======
 	background-image: linear-gradient(rgba(27, 122, 20, 0.8), rgba(27, 122, 20, 0.8)),url('../img/background.jpg') !important;
+>>>>>>> 52981564813f61da495e07cc37e1f3f527570a51
 	position:relative;
 	width:100%;
 	text-align:center
@@ -452,21 +456,4 @@ img::-moz-selection{
 	color:white;
 }
 
-.sponsors {
-	background: linear-gradient( rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('img/genetic.jpg'), no-repeat center center fixed;
-	-webkit-background-size:cover;
-	-mox-background-size:cover;
-	-o-background-size:cover;
-	-background-size:cover;
-	display:block;
-	background-size:cover !important;
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	color:white !important!;
-	clear:both;
-}
-#sponsor img {
-	width:100%;
-	height:50%;
-	padding-top:10%;
-}
+
