@@ -149,11 +149,7 @@ navbar-default .navbar-header .navbar-brand{
 
 /* Header*/
 header{
-<<<<<<< HEAD
 	background-image: linear-gradient(rgba(27, 122, 20, 0.8), rgba(27, 122, 20, 0.8)),url('../img/dna.jpg') !important;
-=======
-	background-image: linear-gradient(rgba(27, 122, 20, 0.8), rgba(27, 122, 20, 0.8)),url('../img/background.jpg') !important;
->>>>>>> 52981564813f61da495e07cc37e1f3f527570a51
 	position:relative;
 	width:100%;
 	text-align:center
